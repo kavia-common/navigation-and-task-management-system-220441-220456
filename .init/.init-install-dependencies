@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/navigation-and-task-management-system-220441-220456/task_management_database"
+}
